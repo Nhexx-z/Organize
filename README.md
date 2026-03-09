@@ -21,5 +21,5 @@ A simple application that helps organize folders and generate statistics about t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/Nhexx-z/Organize.git
+cd Organize
